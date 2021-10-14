@@ -1,6 +1,6 @@
 import sqlite3
 
-db = sqlite3.connect('file_ids.db', check_same_thread=False)
+db = sqlite3.connect('DATABASE NAME', check_same_thread=False)
 sql = db.cursor()
 sql.execute('''CREATE TABLE IF NOT EXISTS file_ids(
             file_name VARCHAR, 
