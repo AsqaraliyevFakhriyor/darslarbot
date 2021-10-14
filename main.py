@@ -6,7 +6,7 @@ from models import dars
 from time import sleep
 
 file_id = "a"
-db = sqlite3.connect('bot_users.db', check_same_thread=False)
+db = sqlite3.connect('USERS DATABASE', check_same_thread=False)
 sql = db.cursor()
 # sqlite3.connect(":memory:", check_same_thread=False)
 
