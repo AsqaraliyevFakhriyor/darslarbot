@@ -1,4 +1,4 @@
-# Simple telegram bot that I made i while ago!
+# Simple telegram bot that I made while ago!
 
 
 > the bot sends `courses`, `tutorials`  <br> 
